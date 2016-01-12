@@ -1,0 +1,27 @@
+{
+  "name": "build-webpack",
+  "version": "1.0.0",
+  "description": "Webpack Build Process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobwsmith/build-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobwsmith/build-webpack/issues"
+  },
+  "homepage": "https://github.com/jacobwsmith/build-webpack#readme",
+  "devDependencies": {
+    "webpack": "^1.12.11",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "angular": "^1.4.8",
+    "jquery": "^2.2.0"
+  }
+}
