@@ -10,4 +10,4 @@ require("../../assets/js/global.js");
 require("./app.css");
 
 // Page Specific JS 
-require("./app.js");
+document.write(require("./app.js"));
